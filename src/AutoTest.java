@@ -4,6 +4,11 @@ import java.awt.Color;
 
 import org.junit.*;
 
+/**
+ * git@github.com:davidvu14/AutoTestA19mvu.git
+ * @author David
+ * @version 20.03.2017
+ */
 public class AutoTest {
 
 	public AutoTest(){
